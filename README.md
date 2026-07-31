@@ -1,3 +1,5 @@
+> **Archived (July 2026).** Coursework ML project, kept for reference.
+
 # Personal Loan Campaign Prediction Model
 
 A machine learning solution to identify customers likely to accept personal loan offers, enabling more efficient and targeted marketing campaigns for AllLife Bank.
